@@ -223,8 +223,9 @@
 - `Figma` та структура сторінки (01:23)
 
 - плагін "Emmet": (01:30)
-  `ul>li\*5`  
-  `header+main+footer`
+
+  `ul>li\*5>a`  
+  `header+main+footer`  
   `section*8`
 
 - `Logo` обгортаємо посиланням (01:40)
