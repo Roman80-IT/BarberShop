@@ -10,6 +10,7 @@
 Всі растрові зображення оптимізовані, використовуючи [squoosh](https://squoosh.app/)
 Код написаний з дотриманням [настанови](https://codeguide.co/)
 HTML проходить перевірку [валідатором](https://validator.w3.org/nu/) без помилок.
+(https://jigsaw.w3.org/css-validator/)
 
 ## Markdown:
 
